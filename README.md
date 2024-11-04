@@ -50,7 +50,12 @@ I am a student of computer systems engineering, i love learning new technologies
 <h2>Contact me</h2>
 
 <p  align="left">
-  <a href="www.linkedin.com/in/josé-olivares-802427220" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linki"/></a>
-  <a href = "mailto:jp.joseolivar.es@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="@josep"  /></a>
+  <a href="https://www.linkedin.com/in/josé-olivares-802427220" target="_blank"> 
+      <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linki"/>
+  </a>
+
+  <a href = "mailto:jp.joseolivar.es@gmail.com" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="@josep"/>
+  </a>
 </p>
 <!--end contact-->
